@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name":"London",
+        "description":"London is the most beautiful country for the  travel and tourism",
+        "price":499,
+        "cutoff":699,
+        "image":"/img/londonair.jpg",
+        "user":"/img/user.svg",
+        "text":"Book Now",
+        "stock":10,
+        "remove":"Cancel Trip"
+    },
+    {
+        "id":2,
+        "name":"India",
+        "description":"The Taj Mahal is a stunning white marble mausoleum in Agra, India beauty.",
+        "price":199,
+        "cutoff":399,
+        "image":"/img/Taj-1.jpg",
+        "user":"/img/user.svg",
+        "text":"Book Now",
+        "stock":10,
+        "remove":"Cancel Trip"
+    },
+    {
+        "id":3,
+        "name":"Egypt",
+        "description":"The pyramids of Egypt are ancient monumental and historical significance.",
+        "price":259,
+        "cutoff":359,
+        "image":"/img/piramids.jpg",
+        "user":"/img/user.svg",
+        "text":"Book Now",
+        "stock":10,
+        "remove":"Cancel Trip"
+    },
+    {
+        "id":4,
+        "name":"Spain",
+        "description":"Traveling to Spain offers cultural landscapes from beaches to mountains.",
+        "price":888,
+        "cutoff":999,
+        "image":"/img/Mexico-city.jpeg",
+        "user":"/img/user.svg",
+        "text":"Book Now",
+        "stock":10,
+        "remove":"Cancel Trip"
+    },
+    {
+        "id":5,
+        "name":"China",
+        "description":"Traveling to China offers a captivating journey cities to serene countryside.",
+        "price":1000,
+        "cutoff":1111,
+        "image":"/img/china.jpg",
+        "user":"/img/user.svg",
+        "text":"Book Now",
+        "stock":10,
+        "remove":"Cancel Trip"
+    },
+    {
+        "id":6,
+        "name":"Maldeves",
+        "description":"Traveling to the Maldives offers a paradise of crystal-clear waters and beaches.",
+        "price":999,
+        "cutoff":1999,
+        "image":"/img/Things-to-do-in-the-Maldives.jpg",
+        "user":"/img/user.svg",
+        "text":"Book Now",
+        "stock":10,
+        "remove":"Cancel Trip"
+    }
+]
