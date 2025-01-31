@@ -5,7 +5,7 @@
         "description":"London is the most beautiful country for the  travel and tourism",
         "price":499,
         "cutoff":699,
-        "image":"/img/londonair.jpg",
+        "image":"../img/londonair.jpg",
         "user":"/img/user.svg",
         "text":"Book Now",
         "stock":10,
